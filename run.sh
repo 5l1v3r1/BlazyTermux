@@ -8,7 +8,6 @@ echo It will takes 20 minutes so just leave it for a while
 pip2 install -r requirements.txt
 echo =====DONE=====
 echo use command
-echo cd $HOME
 echo cd Blazy
 echo python2 blazy.py
 echo Thanks for use my script
