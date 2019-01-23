@@ -10,6 +10,8 @@ curl -LO https://raw.githubusercontent.com/41Team/BlazyTermux/master/run.sh
 bash run.sh
 ```
 
+It will takes about 20 minutes so you can leave it without closing the app
+
 # Thanks To
 
 * Me :v
